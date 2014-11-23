@@ -185,8 +185,12 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/jactivelte/proprietary/etc/wifi/cred.conf:system/etc/wifi/cred.conf \
     vendor/samsung/jactivelte/proprietary/etc/wifi/nvram_mfg.txt:system/etc/wifi/nvram_mfg.txt \
     vendor/samsung/jactivelte/proprietary/etc/wifi/nvram_net.txt:system/etc/wifi/nvram_net.txt \
+    vendor/samsung/jactivelte/proprietary/lib/drm/libfwdlockengine.so:system/lib/drm/libfwdlockengine.so \
+    vendor/samsung/jactivelte/proprietary/lib/liboemcrypto.so:system/lib/liboemcrypto.so \
     vendor/samsung/jactivelte/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
     vendor/samsung/jactivelte/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
     vendor/samsung/jactivelte/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
+    vendor/samsung/jactivelte/proprietary/vendor/lib/libWVphoneAPI.so:system/vendor/lib/libWVphoneAPI.so \
     vendor/samsung/jactivelte/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
+    vendor/samsung/jactivelte/proprietary/vendor/lib/mediadrm/libdrmclearkeyplugin.so:system/vendor/lib/mediadrm/libdrmclearkeyplugin.so \
     vendor/samsung/jactivelte/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so
