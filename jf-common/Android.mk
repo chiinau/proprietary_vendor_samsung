@@ -16,7 +16,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter jflte jflteatt jfltecan jfltecri jfltecsp jfltegsm jfltespr jfltetmo jflteusc jfltevzw,$(TARGET_DEVICE)),)
+ifneq ($(filter jflte jflteatt jfltecan jfltecri jfltecsp jfltegsm jfltespr jfltetmo jflteusc jfltevzw jfltexx,$(TARGET_DEVICE)),)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := libtime_genoff
