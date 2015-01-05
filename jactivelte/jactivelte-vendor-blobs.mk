@@ -97,11 +97,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/jactivelte/proprietary/lib/libvdis.so:system/lib/libvdis.so \
     vendor/samsung/jactivelte/proprietary/cameradata/datapattern_420sp.yuv:system/cameradata/datapattern_420sp.yuv \
     vendor/samsung/jactivelte/proprietary/cameradata/datapattern_front_420sp.yuv:system/cameradata/datapattern_front_420sp.yuv \
-    vendor/samsung/jactivelte/proprietary/cameradata/M10MO_SFW.bin:system/cameradata/M10MO_SFW.bin \
-    vendor/samsung/jactivelte/proprietary/cameradata/RS_M10MO_OL.bin:system/cameradata/RS_M10MO_OL.bin \
-    vendor/samsung/jactivelte/proprietary/cameradata/RS_M10MO_OS.bin:system/cameradata/RS_M10MO_OS.bin \
-    vendor/samsung/jactivelte/proprietary/cameradata/RS_M10MO_SL.bin:system/cameradata/RS_M10MO_SL.bin \
-    vendor/samsung/jactivelte/proprietary/cameradata/RS_M10MO_SS.bin:system/cameradata/RS_M10MO_SS.bin \
     vendor/samsung/jactivelte/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/samsung/jactivelte/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
     vendor/samsung/jactivelte/proprietary/lib/libdrmfs.so:system/lib/libdrmfs.so \
