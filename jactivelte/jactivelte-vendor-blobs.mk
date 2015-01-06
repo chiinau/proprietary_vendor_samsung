@@ -25,6 +25,11 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/jactivelte/proprietary/lib/libchromatix_imx091_default_video.so:system/lib/libchromatix_imx091_default_video.so \
     vendor/samsung/jactivelte/proprietary/lib/libchromatix_imx091_preview.so:system/lib/libchromatix_imx091_preview.so \
     vendor/samsung/jactivelte/proprietary/lib/libchromatix_imx091_video_hd.so:system/lib/libchromatix_imx091_video_hd.so \
+    vendor/samsung/jactivelte/proprietary/lib/libchromatix_imx135_default_video.so:system/lib/libchromatix_imx135_default_video.so \
+    vendor/samsung/jactivelte/proprietary/lib/libchromatix_imx135_preview.so:system/lib/libchromatix_imx135_preview.so \
+    vendor/samsung/jactivelte/proprietary/lib/libchromatix_imx135_video_hd.so:system/lib/libchromatix_imx135_video_hd.so \
+    vendor/samsung/jactivelte/proprietary/lib/libchromatix_imx135_video_hdr.so:system/lib/libchromatix_imx135_video_hdr.so \
+    vendor/samsung/jactivelte/proprietary/lib/libchromatix_imx135_zsl.so:system/lib/libchromatix_imx135_zsl.so \
     vendor/samsung/jactivelte/proprietary/lib/libchromatix_mt9e013_default_video.so:system/lib/libchromatix_mt9e013_default_video.so \
     vendor/samsung/jactivelte/proprietary/lib/libchromatix_mt9e013_preview.so:system/lib/libchromatix_mt9e013_preview.so \
     vendor/samsung/jactivelte/proprietary/lib/libchromatix_mt9e013_video_hfr.so:system/lib/libchromatix_mt9e013_video_hfr.so \
@@ -84,6 +89,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/jactivelte/proprietary/lib/libmmmpo.so:system/lib/libmmmpo.so \
     vendor/samsung/jactivelte/proprietary/lib/libTsAwb.so:system/lib/libTsAwb.so \
     vendor/samsung/jactivelte/proprietary/lib/libTsAccm.so:system/lib/libTsAccm.so \
-    vendor/samsung/jactivelte/proprietary/lib/libvdis.so:system/lib/libvdis.so \
     vendor/samsung/jactivelte/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/jactivelte/proprietary/lib/libril.so:system/lib/libril.so
+
