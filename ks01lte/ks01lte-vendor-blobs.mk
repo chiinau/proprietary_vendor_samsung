@@ -17,6 +17,7 @@
 PRODUCT_COPY_FILES += \
 	vendor/samsung/ks01lte/proprietary/bin/hvdcp:system/bin/hvdcp \
 	vendor/samsung/ks01lte/proprietary/bin/mpdecision:system/bin/mpdecision \
+	vendor/samsung/ks01lte/proprietary/bin/radish:system/bin/radish \
 	vendor/samsung/ks01lte/proprietary/bin/ssr_diag:system/bin/ssr_diag \
 	vendor/samsung/ks01lte/proprietary/bin/thermal-engine:system/bin/thermal-engine \
 	vendor/samsung/ks01lte/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
@@ -34,7 +35,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/ks01lte/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
 	vendor/samsung/ks01lte/proprietary/vendor/lib/libizat_core.so:system/vendor/lib/libizat_core.so \
 	vendor/samsung/ks01lte/proprietary/vendor/lib/liblbs_core.so:system/vendor/lib/liblbs_core.so \
-	vendor/samsung/ks01lte/proprietary/vendor/lib/liblocationservice.so:system/vendor/lib/liblocationservice.so \
+	vendor/samsung/ks01lte/proprietary/vendor/lib/hw/flp.default.so:system/vendor/lib/hw/flp.default.so \
 	vendor/samsung/ks01lte/proprietary/bin/insthk:system/bin/insthk \
 	vendor/samsung/ks01lte/proprietary/etc/srm.bin:system/etc/srm.bin \
 	vendor/samsung/ks01lte/proprietary/lib/libhdcp2.so:system/lib/libhdcp2.so \
